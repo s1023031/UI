@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="tsaijywork" size="100.000000 116.802612" />
+    <ImageTarget name="shihchwork" size="100.000000 49.570553" />
+    <ImageTarget name="liaoswwork" size="100.000000 48.531288" />
+    <ImageTarget name="huangccwork" size="100.000000 97.913773" />
+    <ImageTarget name="choumwwork" size="100.000000 48.674698" />
+    <ImageTarget name="chenyfwork" size="100.000000 74.578316" />
+    <ImageTarget name="chenmtwork" size="100.000000 66.030991" />
+    <ImageTarget name="chenkkwork" size="100.000000 109.210526" />
+    <ImageTarget name="chaoscwork" size="100.000000 143.887772" />
+  </Tracking>
+</QCARConfig>

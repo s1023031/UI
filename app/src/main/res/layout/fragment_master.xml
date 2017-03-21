@@ -1,0 +1,97 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.fulibaigong.tsai.ui.MasterFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/scrollView2"
+        android:visibility="gone">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:id="@+id/ChaoSC"
+                android:background="@drawable/chaosc" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:id="@+id/ChenKK"
+                android:background="@drawable/chenkk" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:id="@+id/ChenMT"
+                android:background="@drawable/chenmt" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+
+                android:id="@+id/ChenYF"
+                android:background="@drawable/chenyf" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+
+                android:id="@+id/ChouMW"
+                android:background="@drawable/choumw" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+
+                android:id="@+id/HuangCC"
+                android:background="@drawable/huangcc" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+
+                android:id="@+id/LiaoSW"
+                android:background="@drawable/liaosw" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+
+                android:id="@+id/ShihCH"
+                android:background="@drawable/shihch" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+
+                android:id="@+id/TsaiJY"
+                android:background="@drawable/tsaijy" />
+
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/linearLayout7" >
+
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/listView" />
+    </LinearLayout>
+
+</FrameLayout>

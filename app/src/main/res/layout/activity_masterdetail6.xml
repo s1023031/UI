@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.fulibaigong.tsai.ui.masterdetail6"
+    android:onClick="onGo6">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="150sp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/linearLayout2">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView"
+            android:src="@drawable/huangcch"
+            android:adjustViewBounds="false" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/linearLayout2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:weightSum="1"
+        android:background="#cbcbcb">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="40sp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="黃吉正 士口一止陶藝工作室"
+                android:id="@+id/textView"
+                android:textSize="23sp"
+                android:textColor="#18294e"
+                android:gravity="center_vertical"
+                android:paddingLeft="16sp"
+                android:paddingRight="16sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/noone"
+            android:weightSum="1"
+            android:layout_weight="0.96">
+
+            <ScrollView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/scrollView">
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="電話：04-25285525\n地址：42049台中市豐原區圓環北路二段110號\n開放時間：周一至周六 10:00～18:00，請先預約\n\n經歷：\n‧2009 獲第五屆大墩工藝師\n‧2008 磺溪美展磺溪獎\n‧2007 台北陶藝獎首獎\n‧2005 國家工藝獎特別獎\n‧2002 玉山美術獎首獎\n\n　　黃吉正讀高中時原是學習雕塑，畢業工作幾年後創業成立庭園景觀公司，後因必須接管家中生意的重責大任，毅然決然放棄自組的公司，回到老家幫忙。期間因家裡生意太忙，幾乎每天工作達15小時，為了紓解壓力，捏陶讓他找到了出口。為了能夠重拾自己熱愛的陶藝創作，黃吉正跟隨吳水沂老師學習，在忙碌的工作中一天只睡兩小時的犧牲睡眠來研習陶藝，就這樣與陶藝結下不解之緣，起初做陶原因是「喜歡種花」，所以做花盆盆器。一般以為陶藝也必需要經過構圖與設計，才著手下去製作，其實不然，黃吉正一開始就走創作路線，是因為手工捏陶製作，不必像製模那樣精準，他利用泥條由下往上慢慢做上來，邊做邊想，邊修正，每天製作，長期下來練就一身爐火純青的功力，創作雛型在心中早已有所定見。於九二一大地震後，更感同身受，造就悲天憫人的情懷，亦特別關注這類議題，因而有了一系列空間與環境的省思創作表現，作品〈歲月〉即透過裂痕抽象造型呈現地震後龜裂的山河大地，強烈表達希冀喚起人們對大自然反撲所帶來的省思，進而加強對環境保護與自然尊重的精神。所謂「師法自然」，足跡常遍及山野，與孩子一同探索大自然生態與昆蟲美妙的世界，都成為創作主題的極佳來源，另也嘗試以複合媒材做創新。黃吉正說：「工藝品的可貴之處即在於工藝的本質與核心，更在於手工製作所產生的個人風格、情感、樂趣與美感，每件作品都不可能達到一模一樣，在這個年代若無法超越古代的水平燒出天目與青瓷，又複製與模仿，難以有創新，與其如此，不如走出自己的路，才是最好的方式。」黃吉正作品師法自然與處處充滿視覺空間張力與傳統美感，並且把所思所想，透過水土交融，經過火焰的焠煉與注入生命情感的作品，令人動容，期待在不久的將來，可以再欣賞到黃吉正嘔心瀝血的作品。（季刊50期）\n\n"
+                        android:id="@+id/textView2"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingRight="16sp"
+                        android:paddingLeft="16sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="工藝師作品"
+                        android:id="@+id/textView20"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingLeft="16sp"
+                        android:paddingRight="16sp"/>
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="350dp"
+                        android:id="@+id/imageView5"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/huangccwork1"
+                        android:paddingLeft="16dp"
+                        android:paddingRight="16dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="位移（收納椅）"
+                        android:id="@+id/textView22"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingLeft="16sp"
+                        android:paddingRight="16sp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="材質 / 陶、木\n尺寸 / 43×39×37 cm \n創作年代 / 2011\n\n"
+                        android:id="@+id/textView27"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingLeft="16sp"
+                        android:paddingRight="16sp"/>
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="370dp"
+                        android:id="@+id/imageView6"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/huangccwork2"
+                        android:paddingLeft="16dp"
+                        android:paddingRight="16dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="空巢"
+                        android:id="@+id/textView29"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingLeft="16sp"
+                        android:paddingRight="16sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="材質 / 陶 \n尺寸 / 65×30×17 cm \n創作年代 / 2012\n\n"
+                        android:id="@+id/textView28"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingLeft="16sp"
+                        android:paddingRight="16sp" />
+
+                </LinearLayout>
+            </ScrollView>
+
+        </LinearLayout>
+
+
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginBottom="30dp"
+            android:layout_marginTop="10dp">
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="38sp"
+                android:text=" 開始導航 "
+                android:id="@+id/button"
+                android:layout_gravity="center_horizontal"
+                android:onClick="onGo6"
+                android:background="#18294e"
+                android:textColor="#ffffff" />
+        </LinearLayout>
+
+    </LinearLayout>
+</RelativeLayout>

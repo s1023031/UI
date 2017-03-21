@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.fulibaigong.tsai.ui.masterdetail2">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="150sp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/linearLayout2">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView"
+            android:src="@drawable/chenkkh"
+            android:adjustViewBounds="false" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/linearLayout2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:weightSum="1"
+        android:background="#cbcbcb">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="40sp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="陳光國 怡陶居工作室"
+                android:id="@+id/textView"
+                android:textSize="23sp"
+                android:textColor="#18294e"
+                android:gravity="center_vertical"
+                android:paddingLeft="16sp"
+                android:paddingRight="16sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/noone"
+            android:weightSum="1"
+            android:layout_weight="0.96">
+
+            <ScrollView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/scrollView">
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="電話：04-27027273\n地址：台中市智惠街79巷5號\n開放時間：周二、周四09:00~17:00，需先預約\n\n經歷：\n‧2000 日本亞洲工藝展特別賞\n‧1999 日本亞洲工藝展入選\n‧1997 大墩美展第三名\n‧1997 日本亞洲工藝展入選\n\n　　中興大學化學系的退休教授陳光國，年輕時以左腦謀生，退休後卻以右腦啟動美感神經，用陶藝冶身心靈，泥土、火溫，豐盈了生命的厚度與色彩。早在念臺中一中時，陳光國就對工藝有極大興趣，不時自己動手做家具，男生要念理科才有出路，教育冠上的緊箍咒迄今未鬆綁，陳光國學化學，一路順遂踏上大學教授之途。同是念理科的太太楊喜美，執教鞭運用的是左腦，平日卻對古董、陶藝頗有偏愛，看展覽成為休閒生活之一，所以夫妻倆老早就規畫退休生活要「樂陶陶」。1995年，滿55歲的陳光國退休後，立即趕上陶藝名家蔡榮祐授徒的最後一班車，用八個月的陶藝養成奠下基礎。陳光國夫妻倆從雕塑、繪畫到自然景觀，吸收不同的知識，研究釉藥、燒製技巧等，發現了製作日本古陶瓷藝術的志野釉，融合釉藥厚薄、窯火溫度、氧化、還原等技法，獨創出自我的陶藝風貌。陳光國不為作品下名稱，在展出畫冊上僅以短文表達作品意涵。火的流動是柴燒留下的印記，土進入火的世界時，土不知火將其淬煉出何種面貌，火也順著自然的伸展、燃燒，不刻意事前的摹繪、造作，陳光國知道，每一個土與火的結合都會有自己的風貌。他的茶壺常有多彩的壺身，流動著火的餘跡，提樑處特雕以中國古典紋飾，益添古雅氛圍。陳光國亦以電窯燒製作品。在這類作品中，茶壺延續了他的作品一貫的飽滿壺型，為了增加視覺的變化，他經常在提樑處，取中國建築的「飛簷」等古典紋樣做為造型，再塗上厚重的志野釉，某些釉隨著高溫崩裂，露出陶土原色，不規則的龜裂呈顯紅、灰、淺綠，錯落有致，古樸而有韻致。在一些具有如胭脂般秀麗典雅之色的壺中，由於志野釉在燒製過程會呈現如蟲蛀之特色，因而使得作品呈現秀麗與粗獷的大反差， 對陳光國而言，這樣的組合卻意涵兼容並蓄的包容，展現生命的謙遜與豐富。陳光國的作品經常透過柴燒在陶土與釉藥上的作用，為作品注入隨意、自然的成分，它們或許形成近似蜂巢般的自然紋路，或許堆疊出深淺不一的紅、黃、綠、黑等顏色，加上了工藝家的巧手雕繪，便是陳光國融合人與自然的作品妙處所在。（季刊34期）\n\n"
+                        android:id="@+id/textView30"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingLeft="16sp"
+                        android:paddingRight="16sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="工藝師作品"
+                        android:id="@+id/textView20"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingLeft="16sp"
+                        android:paddingRight="16sp"/>
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="380dp"
+                        android:id="@+id/imageView5"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/chenkkwork1"
+                        android:paddingLeft="16dp"
+                        android:paddingRight="16dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="友誼萬歲"
+                        android:id="@+id/textView22"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingLeft="16sp"
+                        android:paddingRight="16sp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="材質 / 陶\n尺寸 / 41×33×31 cm \n創作年代 / 2014\n\n"
+                        android:id="@+id/textView27"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingLeft="16sp"
+                        android:paddingRight="16sp"/>
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="508dp"
+                        android:id="@+id/imageView6"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/chenkkwork2"
+                        android:paddingLeft="16dp"
+                        android:paddingRight="16dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="秋空行雲"
+                        android:id="@+id/textView29"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingLeft="16sp"
+                        android:paddingRight="16sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="材質 / 陶 \n尺寸 / 33×16×16 cm \n創作年代 / 2014\n\n"
+                        android:id="@+id/textView28"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingLeft="16sp"
+                        android:paddingRight="16sp" />
+
+                </LinearLayout>
+            </ScrollView>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginBottom="30dp"
+            android:layout_marginTop="10dp">
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="38sp"
+                android:text=" 開始導航 "
+                android:id="@+id/button"
+                android:layout_gravity="center_horizontal"
+                android:onClick="onGo2"
+                android:background="#18294e"
+                android:textColor="#ffffff" />
+        </LinearLayout>
+
+    </LinearLayout>
+</RelativeLayout>

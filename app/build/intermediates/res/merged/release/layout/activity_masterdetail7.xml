@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.fulibaigong.tsai.ui.masterdetail7"
+    android:onClick="onGo7">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="150sp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/linearLayout2">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView"
+            android:src="@drawable/liaoswh"
+            android:adjustViewBounds="false" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/linearLayout2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:weightSum="1"
+        android:background="#cbcbcb">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="40sp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="廖勝文 鐵山漆坊"
+                android:id="@+id/textView"
+                android:textSize="23sp"
+                android:textColor="#18294e"
+                android:gravity="center_vertical"
+                android:paddingLeft="16sp"
+                android:paddingRight="16sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/noone"
+            android:weightSum="1"
+            android:layout_weight="0.96">
+
+            <ScrollView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/scrollView">
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="電話：04-26864155\n地址：台中市大甲區頂店里成功路16號\n開放時間：周一至周五09:00~16:00，請先預約\n\n經歷：\n‧2010~2011 義大利米蘭展\n‧2003 入選第三屆國家工藝獎\n‧2002 第五十六屆全省美展優選\n‧2000 第五屆大墩美展工藝類第三名\n‧1999 第二屆傳統工藝獎其他類佳作\n\n　　漆器歷經數千年的發展，從裝盛王孫珍饈到後來成為裝飾之物，因為「一杯棬，用百人之力，一屏風，就萬人之功」的繁複工序，至近代已逐漸凋零。出身大甲的廖勝文，卻在三十六歲時對漆藝這個老古董一見鍾情，後來更陷入不可自拔之藝境。1996年，漆藝家黃麗淑見漆藝日漸凋落，遂提出「漆器藝人陳火慶技藝傳習計畫」，在當時的臺灣省手工業研究所開班授徒，廖勝文也前往報名。當時主辦單位曾因為他已婚又有一些年紀，所以躊躇著是否收他為學員。未料，這個「高齡」學生結業翌年即入選全國美展，陸續又獲得大墩美展、傳統工藝獎等獎項，成了臺灣少數專業從事漆藝的傳人。從小即具美術天分的廖勝文，國中念美術班，高中念美工科，但畢業後先是進大哥的鞋底工廠，之後又進入二哥的醬菜工廠幫忙，直到因為工作拉傷手肌腱，才因緣巧合進入工藝界。廖勝文在接受漆藝耆老陳火慶、王清霜與高徒黃麗淑的教導，以及當時的臺灣省手工業研究所以學術交流方式，敦請福州知名漆藝師吳川來臺授藝後，奠下了技術基礎。廖勝文在創作過程，不斷地從傳統技法尋找突破、創新的可行性，與各種現代材質做結合，希望將瀕臨滅絕的漆藝導入生活。據記載，漆器的歷史有四千餘年，夏禹時已見使用，戰國時期更是百家齊放，漢代則已成為日常用具，宋、元、明朝之後，統計漆器的製作有二十餘種。廖勝文作品多見脫胎，亦即古稱的夾紵胎，製作方式是先用泥土、石膏或木模等製成內胎，再以生漆為黏劑，用布逐層裱褙，連上兩道漆灰料，陰乾後再脫去內胎，並經由填灰、刮灰、貼覆、上漆、打磨、陰乾等十餘道工序處理，最後再配上彩漆或各種裝飾，才完成脫胎漆器。廖勝文的作品在現代感中蘊含古典氣質，而這也正是廖勝文漆器的一貫氣質。(季刊36期)\n\n"
+                        android:id="@+id/textView2"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingRight="16sp"
+                        android:paddingLeft="16sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="工藝師作品"
+                        android:id="@+id/textView20"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingLeft="16sp"
+                        android:paddingRight="16sp"/>
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="360dp"
+                        android:id="@+id/imageView5"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/liaoswwork2"
+                        android:paddingLeft="16dp"
+                        android:paddingRight="16dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="漆象漂流"
+                        android:id="@+id/textView22"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingLeft="16sp"
+                        android:paddingRight="16sp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="材質 / 木胎／生漆 \n尺寸 / 108×68 cm \n創作年代 / 2013\n\n"
+                        android:id="@+id/textView27"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingLeft="16sp"
+                        android:paddingRight="16sp"/>
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="210dp"
+                        android:id="@+id/imageView6"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/liaoswwork1"
+                        android:paddingLeft="16dp"
+                        android:paddingRight="16dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="回眸"
+                        android:id="@+id/textView29"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingLeft="16sp"
+                        android:paddingRight="16sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="材質 / 木胎／生漆\n尺寸 / 120×60 cm \n創作年代 / 2013\n\n"
+                        android:id="@+id/textView28"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingLeft="16sp"
+                        android:paddingRight="16sp" />
+
+                </LinearLayout>
+            </ScrollView>
+
+        </LinearLayout>
+
+
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginBottom="30dp"
+            android:layout_marginTop="10dp">
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="38sp"
+                android:text=" 開始導航 "
+                android:id="@+id/button"
+                android:layout_gravity="center_horizontal"
+                android:onClick="onGo7"
+                android:background="#18294e"
+                android:textColor="#ffffff" />
+        </LinearLayout>
+
+    </LinearLayout>
+</RelativeLayout>

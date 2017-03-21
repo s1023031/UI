@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.fulibaigong.tsai.ui.masterdetail9"
+    android:onClick="onGo9">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="150sp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/linearLayout2">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView"
+            android:src="@drawable/tsaijyh"
+            android:adjustViewBounds="false" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/linearLayout2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:weightSum="1"
+        android:background="#cbcbcb">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="40sp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="蔡榮祐 廣達藝苑"
+                android:id="@+id/textView"
+                android:textSize="23sp"
+                android:textColor="#18294e"
+                android:gravity="center_vertical"
+                android:paddingLeft="16sp"
+                android:paddingRight="16sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/noone"
+            android:weightSum="1"
+            android:layout_weight="0.96">
+
+            <ScrollView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/scrollView">
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="經歷：‧2013 獲頒第一屆新北市陶藝成就獎\n‧2011 獲頒國家工藝成就獎，1983 當選全國十大傑出青年\n‧1982 獲省展永久免審查榮譽資格\n‧1979 年起於國內外舉辦46 場陶藝個展\n‧ 作品獲國內各大美術館、博物館及私人典藏；出版作品專輯十一冊\n‧ 曾任省陶、國陶、傳統匠師協會等理事長\n‧ 國內各美展評審委員、朝陽科技大學工設系兼任教授\n\n　　1966年，蔡榮祐曾跟隨侯壽峰老師學習膠彩繪畫技巧，奠定了深厚的繪畫基礎，從事繪畫創作的十年間，作品屢獲肯定與獎項。後來因為環境因素和生活負擔的壓力，他放棄了鍾愛的繪畫創作，轉任職各種行業，於職場上經歷了許多失敗與不如意。與陶藝的因緣就起於1975年待業家中時，他協助侄兒佈置結婚的新房，為尋找適合的擺飾品，他認識了當時製作陶器提供拍賣的楊連科，因而向他請益學習簡易的陶器製作手法，楊連科於是可以說是蔡榮祐的啟蒙老師。為了使陶藝技藝能夠更上一層樓，蔡榮祐接著於1976年離鄉背井到臺北拜師邱煥堂與林葆家兩位教授的門下，自此與陶藝結下不解之緣，翌年即返鄉開窯，成立「廣達藝苑」陶藝工作室。「我六十歲才學會『包容』」，蔡榮祐開口說的第一句打趣話，指的其實是他的嘔心瀝血之作─「包容」系列。他指著作品說，「要如何將不同熔點的陶土相互包容，確實是一大挑戰，因為成功率相當低。」，「包容」系列試了六年，較早期的「包容」系列是以方形呈現，後來改採圓形拉坯方式，當冰柱鐘乳石的質感出現那一刻，「我頓時感動莫名，彷彿渾然天成一般」，他的後院至今還保留著以往失敗的作品，提醒自己凡事從錯誤中學習。他一面緩緩道出這段歷程時，臉上一面不禁浮出滿意笑容，因為他覺得自己已經通過了層層考驗，在「包容」之後，甚麼事都再也難不倒他。通常蔡榮祐在創作之前都會先畫好設計圖才去執行，靈感則多來自日常生活中的體悟，以及對人與人之間相處的感觸。目前他已發展出了「圓滿」、「憨厚」、「惜福」、「親情」、「耿直」、「捨得」、「彩釉」、「盤與缽」、「方圓憨厚」、「石窟頌」、「蓋罐」和「包容」等十二個系列，每件人性系列作品都有著特殊的意涵，例如坦誠、表裡一致、神祕、虛有其表等主題，增添了作品不少意趣。在近期創作中，他的現代陶藝風格愈趨明顯，作品都帶有時尚造形，他解釋道，陶藝創作也需要求新求變，傳統陶藝（指生活陶純美的部分）偏向純藝術欣賞，觀念性較強，為了以實用性的火花開發其市場，他認為必須讓陶藝的造形有所破。這位在2011年獲得國家工藝成就獎的大師在陶藝之路上的成功，正是來自他不斷的自我要求。(季刊46期)
+\n\n"
+                        android:id="@+id/textView2"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingRight="16sp"
+                        android:paddingLeft="16sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="工藝師作品"
+                        android:id="@+id/textView20"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingLeft="16sp"
+                        android:paddingRight="16sp"/>
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="350dp"
+                        android:id="@+id/imageView5"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/tsaijywork1"
+                        android:paddingLeft="16dp"
+                        android:paddingRight="16dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="小口瓶"
+                        android:id="@+id/textView22"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingLeft="16sp"
+                        android:paddingRight="16sp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="材質 / 陶 ( 柴燒 )\n尺寸 / 14.3×14.3×22.9 cm \n創作年代 / 2015\n\n"
+                        android:id="@+id/textView27"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingLeft="16sp"
+                        android:paddingRight="16sp"/>
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="450dp"
+                        android:id="@+id/imageView6"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/tsaijywork2"
+                        android:paddingLeft="16dp"
+                        android:paddingRight="16dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="直口瓶"
+                        android:id="@+id/textView29"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingLeft="16sp"
+                        android:paddingRight="16sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="材質 / 陶 ( 柴燒 )\n尺寸 / 14.8×14.8×23 cm \n創作年代 / 2014\n\n"
+                        android:id="@+id/textView28"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingLeft="16sp"
+                        android:paddingRight="16sp" />
+
+                </LinearLayout>
+            </ScrollView>
+
+        </LinearLayout>
+
+
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginBottom="30dp"
+            android:layout_marginTop="10dp">
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="38sp"
+                android:text=" 開始導航 "
+                android:id="@+id/button"
+                android:layout_gravity="center_horizontal"
+                android:onClick="onGo9"
+                android:background="#18294e"
+                android:textColor="#ffffff" />
+        </LinearLayout>
+
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.fulibaigong.tsai.ui.masterdetail3"
+    android:onClick="onGo3">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="150sp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/linearLayout2">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView"
+            android:src="@drawable/chenmth"
+            android:adjustViewBounds="false" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/linearLayout2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:weightSum="1"
+        android:background="#cbcbcb">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="40sp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="陳銘堂 觀竹堂"
+                android:id="@+id/textView"
+                android:textSize="23sp"
+                android:textColor="#18294e"
+                android:gravity="center_vertical"
+                android:paddingLeft="16sp"
+                android:paddingRight="16sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/noone"
+            android:weightSum="1"
+            android:layout_weight="0.96">
+
+            <ScrollView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/scrollView">
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="電話：04-22244820\n地址：台中市中山路291號\n開放時間：周一至周六，請先預約\n\n經歷：\n‧2007 國立歷史博物館「亮節高風」竹雕創作展\n‧1994~1996 獲第三、五屆民族工藝獎二等、三等獎\n‧1983~1986 獲省長教育廳獎、十一屆臺北美展首獎、十一屆全國美展三等獎\n‧1987~1989 榮獲國立故宮博物院暨國立歷史博物館收藏\n\n　　陳銘堂回憶童年最常陪伴他的是竹子、青蛙與池塘等與世無爭的景象，串連成一幅幅美麗的回憶，是促成他走上藝術這條路的重要創作靈感。「青蛙是我童年時的好朋友，小時候在鄉下那種年代，物質雖然缺乏，但卻有非常快樂的時光，所以希望以這個系列與大家分享，並藉由作品傳達正面的力量⋯⋯」，其中包含著開心、幸福、歡喜三個重要元素，其姿態神情趣味橫生。對於自己採用孟宗竹的根部進行雕刻，他解釋道，這還必須經過多道的手續處理才能使用，「臺灣竹子得天獨厚，纖維細密，硬度較高，孟宗竹中空有節，刺竹是實心，雖然雕起來較困難，但很有挑戰性。」他接著說，自己從事雕刻藝術三十多年，早已把竹子當情人談心，「當作情人才會有互動、有感情，奇妙的是竹子也會釋放能量，給予我靈感」。他的作品突破傳統竹雕構圖的限制，以鏤空透雕和立雕手法製作，並加入現代元素，表現於貓頭鷹與貓對峙之緊張氣氛、鼠與犬的對話作品等題材，更能展現其生動活潑。「青蛙」系列之一〈暢〉刻畫一隻伸懶腰的青蛙，陳銘堂巧妙運用竹子的紋理，展現擬人化的趣味性。一反傳統竹雕不重上色而著重展現竹材光澤的作法，他勇於突破，在作品上著色，利用顏料色澤來增加遠近與深度的層次感，使得竹雕創作呈現截然不同的風格。談及自己如何在竹片上構圖，他說道：「竹莖通常是細而長的圓柱狀，受限於素材的既定形狀，竹雕所受到的構圖限制比木雕來得多，其要在有限的圓弧空間中構圖，如何安排才能表現較佳的視點，如何才能在有限的厚度上展現不同的雕刻手法，對雕刻者而言都是嚴苛的考驗。」竹子的質地比木料堅硬，尤其竹節部分最難雕作，加上竹莖表皮光滑，若未能掌握力道，很容易就會因為滑刀而受傷。「要在這麼硬的纖維中，刻劃出細細的鬚根，不但手要穩，力度也要夠，一有差錯，就要重來……這在竹雕中是常有的事。」從中他也悟出了凡事急不得，否則功虧一簣的道理，因此近年來他在竹雕創作中融入了自己對減法藝術與人生的體悟，將作品逐步朝線條化、簡化發展，讓這股信念落實在自己的人生與創作上。體貼的陳銘堂也不忘感謝妻子的一路陪伴。「走創作這條路，最辛苦的是我太太，因為原創性的東西往往超越市場的期待……」但始終堅持創作的他表示，「生命很短暫，創作亦是一種使命，不但要在有限的時間中展現新的想法，讓未來的人知道，也要將過去的觀念與技法，繼續傳承下去。」傳承與創新，正是他從過去到現在所秉持的方向，而他也將以信念持續開展未來。(季刊46期)\n\n"
+                        android:id="@+id/textView2"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingLeft="16sp"
+                        android:paddingRight="16sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="工藝師作品"
+                        android:id="@+id/textView20"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingLeft="16sp"
+                        android:paddingRight="16sp"/>
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="600dp"
+                        android:id="@+id/imageView5"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/chenmtwork2"
+                        android:paddingLeft="16dp"
+                        android:paddingRight="16dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="歡喜逍遙"
+                        android:id="@+id/textView22"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingLeft="16sp"
+                        android:paddingRight="16sp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="材質 / 竹、木 \n尺寸 / 90×30×9 cm \n創作年代 / 2013\n\n"
+                        android:id="@+id/textView27"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingLeft="16sp"
+                        android:paddingRight="16sp"/>
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="300dp"
+                        android:id="@+id/imageView6"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/chenmtwork1"
+                        android:paddingLeft="16dp"
+                        android:paddingRight="16dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="身教─亦步亦趨"
+                        android:id="@+id/textView29"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingLeft="16sp"
+                        android:paddingRight="16sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="材質 / 竹\n尺寸 / 16×11×35 cm ( 左 )、13×11×22 cm ( 中 )、11×14×20 cm ( 右 ) \n創作年代 / 2012\n\n"
+                        android:id="@+id/textView28"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingLeft="16sp"
+                        android:paddingRight="16sp" />
+
+                </LinearLayout>
+            </ScrollView>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginBottom="30dp"
+            android:layout_marginTop="10dp">
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="38sp"
+                android:text=" 開始導航 "
+                android:id="@+id/button"
+                android:layout_gravity="center_horizontal"
+                android:onClick="onGo3"
+                android:background="#18294e"
+                android:textColor="#ffffff" />
+        </LinearLayout>
+
+    </LinearLayout>
+</RelativeLayout>

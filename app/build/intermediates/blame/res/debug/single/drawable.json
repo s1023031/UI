@@ -1,0 +1,1782 @@
+[
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hudong2.jpg",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\hudong2.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tsaijy0.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\tsaijy0.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera_button_background.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\camera_button_background.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenmtwork1.jpg",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\chenmtwork1.jpg"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\046720cd4797c83e2eda8c31b644f59e5df5e675\\output\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenmt0.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\chenmt0.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\1607c7893849b3d50f6b27a4e1d5b00161f07a79\\output\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenkkwork1.jpg",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\chenkkwork1.jpg"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\game.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\game.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shihchh.jpg",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\shihchh.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_close_pressed.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\button_close_pressed.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jianjie.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\jianjie.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\new_target_button_background.xml",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\new_target_button_background.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tsaijywork2.jpg",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\tsaijywork2.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\camera.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenkk1.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\chenkk1.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gongyi1.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\gongyi1.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_light.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\liaoswwork1.jpg",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\liaoswwork1.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_02.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\icon_02.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hudong1.jpg",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\hudong1.jpg"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\close_button_background.xml",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\close_button_background.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\map.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\map.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenmtwork1.jpg",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\chenmtwork1.jpg"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_03.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\icon_03.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chaosc.jpg",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\chaosc.jpg"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\choumw0.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\choumw0.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shihchwork2.jpg",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\shihchwork2.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\1607c7893849b3d50f6b27a4e1d5b00161f07a79\\output\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_plus_pressed.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\icon_plus_pressed.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mainpic.jpg",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\mainpic.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gameb.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\gameb.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenkk0.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\chenkk0.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shicx0.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\shicx0.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\liaosw1.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\liaosw1.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenmt1.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\chenmt1.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\liaosw1.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\liaosw1.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\huangcch.jpg",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\huangcch.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tsaijyh.jpg",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\tsaijyh.jpg"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenyfh.jpg",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\chenyfh.jpg"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\1607c7893849b3d50f6b27a4e1d5b00161f07a79\\output\\res\\drawable\\mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shihch.jpg",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\shihch.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenkkh.jpg",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\chenkkh.jpg"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\choumwh.jpg",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\choumwh.jpg"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chaosch.jpg",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\chaosch.jpg"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenyf1.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\chenyf1.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_share_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\drawable\\abc_ic_menu_share_material.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_close_normal.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\button_close_normal.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenyfwork2.jpg",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\chenyfwork2.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_camera_pressed.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\icon_camera_pressed.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_cut_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\drawable\\abc_ic_menu_cut_material.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indexbg2.jpg",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\indexbg2.jpg"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shihchwork1.jpg",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\shihchwork1.jpg"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tsaijy.jpg",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\tsaijy.jpg"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indexbg2.jpg",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\indexbg2.jpg"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tsaijy0.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\tsaijy0.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_camera_normal.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\icon_camera_normal.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shihchwork2.jpg",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\shihchwork2.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_selectall_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\drawable\\abc_ic_menu_selectall_material.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\game.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\game.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenmt.jpg",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\chenmt.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenkkwork1.jpg",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\chenkkwork1.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\poscard1.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\poscard1.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gongyi0.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\gongyi0.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\1607c7893849b3d50f6b27a4e1d5b00161f07a79\\output\\res\\drawable\\mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mapb.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\mapb.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\prize.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\prize.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenmtwork2.jpg",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\chenmtwork2.jpg"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenyf0.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\chenyf0.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\choumwwork1.jpg",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\choumwwork1.jpg"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_close_pressed.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\button_close_pressed.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\fb684ece75015d9ae0b166d75eb42775fcf2abf7\\output\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camerab.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\camerab.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera_button_background.xml",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\camera_button_background.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\huangcc0.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\huangcc0.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gongyi1.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\gongyi1.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\liaosw.jpg",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\liaosw.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenkk1.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\chenkk1.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenmt1.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\chenmt1.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shihchwork1.jpg",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\shihchwork1.jpg"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chaosc.jpg",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\chaosc.jpg"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vuforia_splash.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\vuforia_splash.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\choumwh.jpg",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\choumwh.jpg"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenyfh.jpg",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\chenyfh.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenyfwork2.jpg",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\chenyfwork2.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_03.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\icon_03.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gameb.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\gameb.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hudong3.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\hudong3.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\game.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\game.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\liaoswh.jpg",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\liaoswh.jpg"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\poscard2.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\poscard2.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\color.jpg",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\color.jpg"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_02.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\icon_02.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hudong1.jpg",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\hudong1.jpg"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg00.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\bg00.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_dark.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shihchwork1.jpg",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\shihchwork1.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenmt0.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\chenmt0.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hudong2.jpg",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\hudong2.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\choumwwork1.jpg",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\choumwwork1.jpg"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chaoscwork2.jpg",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\chaoscwork2.jpg"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\liaoswwork2.jpg",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\liaoswwork2.jpg"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tsaijyh.jpg",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\tsaijyh.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenkkwork2.jpg",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\chenkkwork2.jpg"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\camera.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenyf.jpg",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\chenyf.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shihch.jpg",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\shihch.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenyf.jpg",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\chenyf.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\choumw.jpg",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\choumw.jpg"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\046720cd4797c83e2eda8c31b644f59e5df5e675\\output\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chaoscwork1.jpg",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\chaoscwork1.jpg"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenkk0.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\chenkk0.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\huangcch.jpg",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\huangcch.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indexbg.jpg",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\indexbg.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg00.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\bg00.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tsaijyh.jpg",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\tsaijyh.jpg"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chaosch.jpg",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\chaosch.jpg"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\liaoswwork2.jpg",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\liaoswwork2.jpg"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_02.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\icon_02.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg70.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\bg70.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\1607c7893849b3d50f6b27a4e1d5b00161f07a79\\output\\res\\drawable\\mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_light.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camerab.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\camerab.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gameb.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\gameb.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\choumw.jpg",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\choumw.jpg"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\huangcc.jpg",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\huangcc.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chaosc0.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\chaosc0.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\choumwwork1.jpg",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\choumwwork1.jpg"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chaoscwork2.jpg",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\chaoscwork2.jpg"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenyfwork1.jpg",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\chenyfwork1.jpg"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vuforia_splash.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\vuforia_splash.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\liaosw0.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\liaosw0.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indexbg2.jpg",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\indexbg2.jpg"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenkkwork1.jpg",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\chenkkwork1.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\1607c7893849b3d50f6b27a4e1d5b00161f07a79\\output\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mainpic.jpg",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\mainpic.jpg"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\poscard2.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\poscard2.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\046720cd4797c83e2eda8c31b644f59e5df5e675\\output\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shicx0.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\shicx0.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jianjieb.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\jianjieb.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\choumw0.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\choumw0.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tsaijywork1.jpg",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\tsaijywork1.jpg"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\liaosw.jpg",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\liaosw.jpg"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chaosc1.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\chaosc1.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenmth.jpg",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\chenmth.jpg"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jianjieb.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\jianjieb.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_plus_normal.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\icon_plus_normal.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\close_button_background.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\close_button_background.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\poscard2.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\poscard2.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_checkbox_unchecked_mtrl.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\drawable\\abc_btn_checkbox_unchecked_mtrl.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\choumw1.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\choumw1.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\choumw.jpg",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\choumw.jpg"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\poscard4.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\poscard4.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\huangccwork1.jpg",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\huangccwork1.jpg"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\huangcc0.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\huangcc0.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\camera.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_01.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\icon_01.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chaosc1.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\chaosc1.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\1607c7893849b3d50f6b27a4e1d5b00161f07a79\\output\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shihch.jpg",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\shihch.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mapb.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\mapb.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_01.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\icon_01.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenyfwork1.jpg",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\chenyfwork1.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_close_normal.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\button_close_normal.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chaosc.jpg",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\chaosc.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\choumwwork2.jpg",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\choumwwork2.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\046720cd4797c83e2eda8c31b644f59e5df5e675\\output\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\poscard3.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\poscard3.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg70.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\bg70.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenyf.jpg",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\chenyf.jpg"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\huangcc1.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\huangcc1.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tsaijywork2.jpg",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\tsaijywork2.jpg"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\prizeb.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\prizeb.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gongyi0.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\gongyi0.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\liaosw1.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\liaosw1.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenmt1.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\chenmt1.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenmth.jpg",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\chenmth.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenyf0.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\chenyf0.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\choumw0.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\choumw0.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\liaoswh.jpg",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\liaoswh.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tsaijy.jpg",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\tsaijy.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shicx0.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\shicx0.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenmt.jpg",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\chenmt.jpg"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\prize.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\prize.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\huangcc1.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\huangcc1.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenyfwork1.jpg",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\chenyfwork1.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\choumwh.jpg",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\choumwh.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mainpic.jpg",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\mainpic.jpg"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_plus_normal.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\icon_plus_normal.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shicx1.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\shicx1.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chaosch.jpg",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\chaosch.jpg"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shihchh.jpg",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\shihchh.jpg"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg00.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\bg00.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\1607c7893849b3d50f6b27a4e1d5b00161f07a79\\output\\res\\drawable\\mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\huangccwork2.jpg",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\huangccwork2.jpg"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indexbg.jpg",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\indexbg.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\poscard4.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\poscard4.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shihchwork2.jpg",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\shihchwork2.jpg"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenyf1.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\chenyf1.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hudong2.jpg",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\hudong2.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\poscard4.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\poscard4.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenmtwork1.jpg",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\chenmtwork1.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_checkbox_checked_mtrl.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\drawable\\abc_btn_checkbox_checked_mtrl.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\poscard3.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\poscard3.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenmt.jpg",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\chenmt.jpg"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_close_normal.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\button_close_normal.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg70.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\bg70.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\huangccwork1.jpg",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\huangccwork1.jpg"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gongyi1.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\gongyi1.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenkk0.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\chenkk0.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hudong3.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\hudong3.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\test1.jpg",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\test1.jpg"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jianjieb.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\jianjieb.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\1607c7893849b3d50f6b27a4e1d5b00161f07a79\\output\\res\\drawable\\mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shicx1.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\shicx1.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\color.jpg",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\color.jpg"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.4.0\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\prize.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\prize.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gongyi0.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\gongyi0.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\new_target_button_background.xml",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\new_target_button_background.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\huangcc0.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\huangcc0.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\test1.jpg",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\test1.jpg"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mapb.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\mapb.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tsaijy0.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\tsaijy0.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenkk.jpg",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\chenkk.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenyfh.jpg",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\chenyfh.jpg"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenmtwork2.jpg",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\chenmtwork2.jpg"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hudong1.jpg",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\hudong1.jpg"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenkkh.jpg",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\chenkkh.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\color.jpg",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\color.jpg"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\liaosw.jpg",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\liaosw.jpg"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jianjie.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\jianjie.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tsaij1.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\tsaij1.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vuforia_splash.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\vuforia_splash.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\huangccwork1.jpg",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\huangccwork1.jpg"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\choumw1.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\choumw1.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\test1.jpg",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\test1.jpg"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenyf0.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\chenyf0.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\newindexbg.jpg",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\newindexbg.jpg"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_paste_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\drawable\\abc_ic_menu_paste_material.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_dark.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tsaijywork1.jpg",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\tsaijywork1.jpg"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_camera_pressed.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\icon_camera_pressed.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenkkh.jpg",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\chenkkh.jpg"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tsaijy.jpg",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\tsaijy.jpg"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_camera_normal.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\icon_camera_normal.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenyfwork2.jpg",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\chenyfwork2.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\huangcc1.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\huangcc1.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chaosc0.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\chaosc0.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\newindexbg.jpg",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\newindexbg.jpg"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\new_target_button_background.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\new_target_button_background.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_copy_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\drawable\\abc_ic_menu_copy_material.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jianjie.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\jianjie.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tsaijywork1.jpg",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\tsaijywork1.jpg"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\huangcc.jpg",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\huangcc.jpg"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_light.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\huangcch.jpg",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\huangcch.jpg"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenkk1.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\chenkk1.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.4.0\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\poscard1.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\poscard1.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenmtwork2.jpg",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\chenmtwork2.jpg"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_03.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\icon_03.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\close_button_background.xml",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\close_button_background.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenyf1.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\chenyf1.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\1607c7893849b3d50f6b27a4e1d5b00161f07a79\\output\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_on_mtrl.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\drawable\\abc_btn_radio_on_mtrl.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\newindexbg.jpg",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\newindexbg.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera_button_background.xml",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\camera_button_background.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_off_mtrl.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\drawable\\abc_btn_radio_off_mtrl.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hudong3.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\hudong3.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\choumw1.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\choumw1.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\huangccwork2.jpg",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\huangccwork2.jpg"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_plus_pressed.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\icon_plus_pressed.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chaosc1.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\chaosc1.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenmth.jpg",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\chenmth.jpg"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\choumwwork2.jpg",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\choumwwork2.jpg"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_camera_normal.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\icon_camera_normal.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indexbg.jpg",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\indexbg.jpg"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chaoscwork1.jpg",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\chaoscwork1.jpg"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenmt0.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\chenmt0.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\liaoswh.jpg",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\liaoswh.jpg"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_close_pressed.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\button_close_pressed.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\prizeb.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\prizeb.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenkk.jpg",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\chenkk.jpg"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tsaij1.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\tsaij1.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\liaoswwork2.jpg",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\liaoswwork2.jpg"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenkk.jpg",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\chenkk.jpg"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\liaosw0.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\liaosw0.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_light.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shihchh.jpg",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\shihchh.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\1607c7893849b3d50f6b27a4e1d5b00161f07a79\\output\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\map.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\map.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\046720cd4797c83e2eda8c31b644f59e5df5e675\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\huangccwork2.jpg",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\huangccwork2.jpg"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_01.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\icon_01.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\test2.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\test2.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\test2.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\test2.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\huangcc.jpg",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\huangcc.jpg"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\prizeb.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\prizeb.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\map.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\map.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\poscard1.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\poscard1.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tsaij1.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\tsaij1.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_camera_pressed.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\icon_camera_pressed.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\046720cd4797c83e2eda8c31b644f59e5df5e675\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\1607c7893849b3d50f6b27a4e1d5b00161f07a79\\output\\res\\drawable\\mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenkkwork2.jpg",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\chenkkwork2.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\poscard3.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\poscard3.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\liaoswwork1.jpg",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\liaoswwork1.jpg"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chaosc0.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\chaosc0.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tsaijywork2.jpg",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\tsaijywork2.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\046720cd4797c83e2eda8c31b644f59e5df5e675\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chaoscwork2.jpg",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\chaoscwork2.jpg"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chaoscwork1.jpg",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\chaoscwork1.jpg"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\choumwwork2.jpg",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\choumwwork2.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camerab.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\camerab.png"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_plus_pressed.png",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\icon_plus_pressed.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\046720cd4797c83e2eda8c31b644f59e5df5e675\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\liaoswwork1.jpg",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\liaoswwork1.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shicx1.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\shicx1.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\test2.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\test2.png"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\liaosw0.png",
+        "source": "D:\\UI\\app\\src\\main\\res\\drawable\\liaosw0.png"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chenkkwork2.jpg",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\drawable\\chenkkwork2.jpg"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_plus_normal.png",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\drawable\\icon_plus_normal.png"
+    }
+]

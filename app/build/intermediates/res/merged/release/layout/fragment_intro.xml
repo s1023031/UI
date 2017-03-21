@@ -1,0 +1,221 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.fulibaigong.tsai.ui.IntroFragment"
+    android:background="#6B9EA0">
+
+
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textSize="30dp" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:layout_gravity="left|top">
+
+            <TextView
+                android:layout_width="31sp"
+                android:layout_height="wrap_content"
+                android:text="﹃內容簡介﹄"
+                android:id="@+id/textView18"
+                android:textSize="30dp"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="50dp"
+                android:textColor="#000000" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.3" >
+
+            <ImageView
+                android:layout_width="180dp"
+                android:layout_height="180dp"
+                android:id="@+id/imageView4"
+                android:src="@drawable/logo"
+                android:scaleType="fitCenter"
+                android:layout_marginTop="-20dp" />
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/scrollView" >
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="計畫簡介:"
+                        android:id="@+id/textView"
+                        android:textSize="20sp"
+                        android:textColor="#000000"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView4"
+                        android:textSize="20sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="　　計畫主持人國立臺中大學數位內容科技學系暨研究所盧詩韻教授，以探勘尋訪「國立台灣工藝  研究發展中心暨臺灣工藝之家」所認證之台中九位工藝師，敍說工藝師故事，建構一個工藝師  文化行動裝置「馥麗百工」APP導覽平台，以「體驗式的知性旅遊」和「工藝產業的文化觀光」  的素養條件做為基礎，把深度旅遊以及行動導覽等元素加進來，以互動式方式進行一場文化旅  遊的加值設計，以此帶動民眾認識台中工藝師創作環境，讓文化傳承和旅遊結合，藉以發展工  藝文化觀光產業。本計畫凝聚不同領域的工藝師，結盟合作，思考拓展工藝創作的視野與可能  性，以及配合文化觀光旅遊資源，藉由工藝師自我品牌的建立、創意及行銷經驗，使其成為參  觀與體驗之學習場所，亦是各地方工藝文化據點。期許此文化行動裝置平台可當作行前資訊  （Pre-trip information）介紹，藉此推廣社會美學教育，延續臺灣工藝文化、啟發研究創新  之精神。"
+                        android:id="@+id/textView5"
+                        android:lineSpacingExtra="6sp"
+                        android:textSize="20sp"
+                        android:textColor="#000000" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView10"
+                        android:textSize="20sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="開發團隊: "
+                        android:lineSpacingExtra="6sp"
+                        android:id="@+id/textView6"
+                        android:textSize="20sp"
+                        android:textColor="#000000"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="盧詩韻、鄭珊伶、翁俊政"
+                        android:lineSpacingExtra="6sp"
+                        android:id="@+id/textView24"
+                        android:textSize="20sp"
+                        android:textColor="#000000" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="經費補助:"
+                        android:lineSpacingExtra="6sp"
+                        android:id="@+id/textView7"
+                        android:textSize="20sp"
+                        android:textColor="#000000"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="教育部智慧生活整合性人才培育計畫"
+                        android:lineSpacingExtra="6sp"
+                        android:id="@+id/textView8"
+                        android:textSize="20sp"
+                        android:textColor="#000000"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="www.smartliving.org.tw"
+                        android:lineSpacingExtra="6sp"
+                        android:id="@+id/textView23"
+                        android:textSize="20sp"
+                        android:textColor="#000000" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="協辦單位: "
+                        android:lineSpacingExtra="6sp"
+                        android:id="@+id/textView9"
+                        android:textSize="20sp"
+                        android:textColor="#000000"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="國立台灣工藝研究發展中心、臺灣工藝之家"
+                        android:lineSpacingExtra="6sp"
+                        android:id="@+id/textView15"
+                        android:textSize="20sp"
+                        android:textColor="#000000" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView11"
+                        android:textSize="20sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView12"
+                        android:textSize="20sp"
+                        android:text="智慧科技與產業創新跨校教學聯盟"
+                        android:lineSpacingExtra="6sp"
+                        android:textColor="#000000"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView25"
+                        android:textSize="20sp"
+                        android:text="www.facebook.com/智創聯盟"
+                        android:lineSpacingExtra="6sp"
+                        android:textColor="#000000" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView13"
+                        android:textSize="20sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView17"
+                        android:textSize="20sp"
+                        android:text="訪問「馥麗百工」網站:"
+                        android:lineSpacingExtra="6sp"
+                        android:textColor="#000000" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView14"
+                        android:textSize="20sp"
+                        android:text="http://www.ntcu.edu.tw/handicarftart/"
+                        android:lineSpacingExtra="6sp"
+                        android:textColor="#000000" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView16"
+                        android:textSize="20sp"
+                        android:text="連繫我們:  lucia@mail.ntcu.edu.tw"
+                        android:lineSpacingExtra="6sp"
+                        android:textColor="#000000" />
+                </LinearLayout>
+            </ScrollView>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</FrameLayout>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.fulibaigong.tsai.ui.masterdetail4"
+    android:onClick="onGo4">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="150sp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/linearLayout2">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView"
+            android:src="@drawable/chenyfh"
+            android:adjustViewBounds="false" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/linearLayout2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:weightSum="1"
+        android:background="#cbcbcb">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="40sp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="陳遠芳 遠芳金屬工藝坊"
+                android:id="@+id/textView"
+                android:textSize="23sp"
+                android:textColor="#18294e"
+                android:gravity="center_vertical"
+                android:paddingLeft="16sp"
+                android:paddingRight="16sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/noone"
+            android:weightSum="1"
+            android:layout_weight="0.96">
+
+            <ScrollView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/scrollView">
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="電話：04-22476477\n地址：臺中市北屯區梅川東路四段103號\n開放時間：周一至周六11:00~19:00，請先預約\n\n經歷：\n‧2008 高雄獎優選\n‧2007 獲選臺中市文化局第三屆大墩工藝師\n‧2007 作品獲編錄美國LARK BOOKS 500 系列書冊\n‧2006 獲編錄於台灣藝術經典大系\n‧2002~2014 國內、國際，個展、聯展數次\n‧2002~2012 連續多次入選國家工藝獎、台灣工藝設計競賽獎、各縣市文化局美展獎\n\n　　童年時期陳遠芳就對刀劍有濃厚的興趣，每當遇到一把心儀的刀劍，總是縈繞心中揮之不去，奠定往後踏入學習金工的契機。「年輕時，曾經看了一把非常喜歡的劍，造價不婓，買不下手，於是心中升起一股自己造劍的想法。」這個念頭一直在腦海中沒有斷過，於是原本從事珠寶設計製作業的他，開始積極蒐集資料、鑽研技術。陳遠芳如數家珍、傾囊相授地告訴我們，「作刀劍的經驗及難處，在於難以固定圓型與彎曲角度，榔頭在敲是無法控制的，而且必須用很多的材料堆疊起來……」，因此常會耗損許多材料，但陳遠芳捨不得浪費，他善加利用剩餘的材料，作成其他體積較小的作品。他說：「早期因為白天有工作，都是利用晚上空餘時間摸索與製作，製刀從業餘到正職，至今已有十一個年頭了。」由此可以看出他對製作刀劍的不懈熱情；更重要的是，他也努力將刀劍工藝轉型成一種創新工藝。陳遠芳表示：「通常創作過程中一定會遇到瓶頸，我一定會想辦法克服，去作了然後從失敗中求經驗」，也就是秉持著這樣的精神，他往往能突破萬難，完成一件件優秀的得獎作品，並在國際間大放光芒。除此之外，陳遠芳也擅長木工、皮雕、漆藝、縫製皮套等工藝製作，都是一氣呵成，獨自完成。如何發掘創作靈感呢？陳遠芳懇切地表示，這是源自於過去生活經驗的累積，只要找到自己所屬的那個領域，專精研究就能出人頭地，另外閱讀國外雜誌或出國觀摩，也是很好的方法。他提到有一次到國外，曾經被三十幾位的刀藝匠師圍觀，頻頻問說：「你是怎麼做到的？」他強調：「親身體驗去做，堅持就對了！」刀劍從農業時代為了因應生活的需求，到現代已經轉變成收藏品、藝術品，可以想見刀劍金工充滿無限魅力，這也是讓陳遠芳能充滿活力地繼續創作下去的原因。(季刊41期)\n\n"
+                        android:id="@+id/textView2"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingLeft="16sp"
+                        android:paddingRight="16sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="工藝師作品"
+                        android:id="@+id/textView20"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingLeft="16sp"
+                        android:paddingRight="16sp"/>
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="300dp"
+                        android:id="@+id/imageView5"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/chenyfwork2"
+                        android:paddingLeft="16dp"
+                        android:paddingRight="16dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="茶盤─命運交響曲"
+                        android:id="@+id/textView22"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingLeft="16sp"
+                        android:paddingRight="16sp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="材質 / 積層竹、合成石、鎳合金\n尺寸 / 50×32×4 cm ( 茶盤 )、20×32×4 cm ( 沉香盤 ) \n創作年代 / 2013\n\n"
+                        android:id="@+id/textView27"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingLeft="16sp"
+                        android:paddingRight="16sp"/>
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="313dp"
+                        android:id="@+id/imageView6"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/chenyfwork1"
+                        android:paddingLeft="16dp"
+                        android:paddingRight="16dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="震乾坤劍"
+                        android:id="@+id/textView29"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingLeft="16sp"
+                        android:paddingRight="16sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="材質 / D2 高級鋼材、紫檀木、紅牛皮、鎳合金\n尺寸 / 107×11×3 cm \n創作年代 / 2013\n\n"
+                        android:id="@+id/textView28"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingLeft="16sp"
+                        android:paddingRight="16sp" />
+
+                </LinearLayout>
+            </ScrollView>
+
+        </LinearLayout>
+
+
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginBottom="30dp"
+            android:layout_marginTop="10dp">
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="38sp"
+                android:text=" 開始導航 "
+                android:id="@+id/button"
+                android:layout_gravity="center_horizontal"
+                android:onClick="onGo4"
+                android:background="#18294e"
+                android:textColor="#ffffff" />
+        </LinearLayout>
+
+    </LinearLayout>
+</RelativeLayout>

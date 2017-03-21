@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\release\\menu\\menu_showarea.xml",
+        "source": "D:\\UI\\app\\src\\main\\res\\menu\\menu_showarea.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\release\\menu\\menu_showarea.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\menu\\menu_showarea.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\release\\menu\\menu_area.xml",
+        "source": "D:\\UI\\app\\src\\main\\res\\menu\\menu_area.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\release\\menu\\menu_mapsnav.xml",
+        "source": "D:\\UI\\app\\src\\main\\res\\menu\\menu_mapsnav.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\release\\menu\\menu_mapsnav.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\menu\\menu_mapsnav.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\release\\menu\\menu_image_targets.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\menu\\menu_image_targets.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\release\\menu\\menu_image_targets.xml",
+        "source": "D:\\UI\\app\\src\\main\\res\\menu\\menu_image_targets.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\release\\menu\\menu_area.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\menu\\menu_area.xml"
+    }
+]

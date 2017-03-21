@@ -1,0 +1,926 @@
+[
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\4a2ea44b8926d8832d1a41202300767ed490fd8c\\output\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_masterdetail4.xml",
+        "source": "D:\\UI\\app\\src\\main\\res\\layout\\activity_masterdetail4.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_app_menu_layer.xml",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\layout\\sample_app_menu_layer.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_take_picture.xml",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\layout\\activity_take_picture.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_masterdetail5.xml",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\layout\\activity_masterdetail5.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_intro.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\layout\\fragment_intro.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_area.xml",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\layout\\activity_area.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_app_menu_group_radio_button.xml",
+        "source": "D:\\UI\\app\\src\\main\\res\\layout\\sample_app_menu_group_radio_button.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mapsnav.xml",
+        "source": "D:\\UI\\app\\src\\main\\res\\layout\\activity_mapsnav.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_masterdetail2.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\layout\\activity_masterdetail2.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_masterdetail6.xml",
+        "source": "D:\\UI\\app\\src\\main\\res\\layout\\activity_masterdetail6.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_guide.xml",
+        "source": "D:\\UI\\app\\src\\main\\res\\layout\\fragment_guide.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_targets.xml",
+        "source": "D:\\UI\\app\\src\\main\\res\\layout\\activity_image_targets.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_app_menu_group_radio_button.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\layout\\sample_app_menu_group_radio_button.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_choose_picture.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\layout\\activity_choose_picture.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_masterdetail9.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\layout\\activity_masterdetail9.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_targets.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\layout\\activity_image_targets.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_choose_picture.xml",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\layout\\activity_choose_picture.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_masterdetail.xml",
+        "source": "D:\\UI\\app\\src\\main\\res\\layout\\activity_masterdetail.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_masterdetail7.xml",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\layout\\activity_masterdetail7.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pro_info.xml",
+        "source": "D:\\UI\\app\\src\\main\\res\\layout\\activity_pro_info.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_area.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\layout\\activity_area.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_targets2.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\layout\\activity_image_targets2.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_masterdetail2.xml",
+        "source": "D:\\UI\\app\\src\\main\\res\\layout\\activity_masterdetail2.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_masterdetail8.xml",
+        "source": "D:\\UI\\app\\src\\main\\res\\layout\\activity_masterdetail8.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_app_menu_group_divider.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\layout\\sample_app_menu_group_divider.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_app_menu_layer.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\layout\\sample_app_menu_layer.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_interact.xml",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\layout\\fragment_interact.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_test_listview.xml",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\layout\\main_test_listview.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_app_menu_group_divider.xml",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\layout\\sample_app_menu_group_divider.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_masterdetail.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\layout\\activity_masterdetail.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_index.xml",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\layout\\activity_index.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pro_info.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\layout\\activity_pro_info.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mapsnav.xml",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\layout\\activity_mapsnav.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_choose_picture.xml",
+        "source": "D:\\UI\\app\\src\\main\\res\\layout\\activity_choose_picture.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_master.xml",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\layout\\fragment_master.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_masterdetail5.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\layout\\activity_masterdetail5.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\1607c7893849b3d50f6b27a4e1d5b00161f07a79\\output\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_showarea.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\layout\\activity_showarea.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mapsnav.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\layout\\activity_mapsnav.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_masterdetail7.xml",
+        "source": "D:\\UI\\app\\src\\main\\res\\layout\\activity_masterdetail7.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_masterdetail.xml",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\layout\\activity_masterdetail.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_master.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\layout\\fragment_master.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_app_menu_group_divider.xml",
+        "source": "D:\\UI\\app\\src\\main\\res\\layout\\sample_app_menu_group_divider.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\4a2ea44b8926d8832d1a41202300767ed490fd8c\\output\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_masterdetail3.xml",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\layout\\activity_masterdetail3.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera_overlay.xml",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\layout\\camera_overlay.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_guide.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\layout\\fragment_guide.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_masterdetail4.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\layout\\activity_masterdetail4.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_masterdetail9.xml",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\layout\\activity_masterdetail9.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pro_info.xml",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\layout\\activity_pro_info.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_index.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\layout\\activity_index.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_guide.xml",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\layout\\fragment_guide.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_collect.xml",
+        "source": "D:\\UI\\app\\src\\main\\res\\layout\\fragment_collect.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_masterdetail4.xml",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\layout\\activity_masterdetail4.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_masterdetail5.xml",
+        "source": "D:\\UI\\app\\src\\main\\res\\layout\\activity_masterdetail5.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_showarea.xml",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\layout\\activity_showarea.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\1607c7893849b3d50f6b27a4e1d5b00161f07a79\\output\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_masterdetail3.xml",
+        "source": "D:\\UI\\app\\src\\main\\res\\layout\\activity_masterdetail3.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera_overlay.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\layout\\camera_overlay.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_targets2.xml",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\layout\\activity_image_targets2.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_interact.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\layout\\fragment_interact.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\single_row.xml",
+        "source": "D:\\UI\\app\\src\\main\\res\\layout\\single_row.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\1607c7893849b3d50f6b27a4e1d5b00161f07a79\\output\\res\\layout\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera_overlay.xml",
+        "source": "D:\\UI\\app\\src\\main\\res\\layout\\camera_overlay.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_masterdetail2.xml",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\layout\\activity_masterdetail2.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_masterdetail8.xml",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\layout\\activity_masterdetail8.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_targets2.xml",
+        "source": "D:\\UI\\app\\src\\main\\res\\layout\\activity_image_targets2.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_masterdetail3.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\layout\\activity_masterdetail3.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_test_listview.xml",
+        "source": "D:\\UI\\app\\src\\main\\res\\layout\\main_test_listview.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\single_row.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\layout\\single_row.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_maps.xml",
+        "source": "D:\\UI\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_app_menu_group.xml",
+        "source": "D:\\UI\\app\\src\\main\\res\\layout\\sample_app_menu_group.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_maps.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_app_menu_group_radio_button.xml",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\layout\\sample_app_menu_group_radio_button.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\single_row.xml",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\layout\\single_row.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_area.xml",
+        "source": "D:\\UI\\app\\src\\main\\res\\layout\\activity_area.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\4a2ea44b8926d8832d1a41202300767ed490fd8c\\output\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_app_menu_layer.xml",
+        "source": "D:\\UI\\app\\src\\main\\res\\layout\\sample_app_menu_layer.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_collect.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\layout\\fragment_collect.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_intro.xml",
+        "source": "D:\\UI\\app\\src\\main\\res\\layout\\fragment_intro.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_masterdetail6.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\layout\\activity_masterdetail6.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_index.xml",
+        "source": "D:\\UI\\app\\src\\main\\res\\layout\\activity_index.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_masterdetail8.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\layout\\activity_masterdetail8.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_app_menu_group.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\layout\\sample_app_menu_group.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_take_picture.xml",
+        "source": "D:\\UI\\app\\src\\main\\res\\layout\\activity_take_picture.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_masterdetail9.xml",
+        "source": "D:\\UI\\app\\src\\main\\res\\layout\\activity_masterdetail9.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_collect.xml",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\layout\\fragment_collect.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_intro.xml",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\layout\\fragment_intro.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_app_menu_group.xml",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\layout\\sample_app_menu_group.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_master.xml",
+        "source": "D:\\UI\\app\\src\\main\\res\\layout\\fragment_master.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\4a2ea44b8926d8832d1a41202300767ed490fd8c\\output\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\UI\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_test_listview.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\layout\\main_test_listview.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_maps.xml",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_targets.xml",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\layout\\activity_image_targets.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_interact.xml",
+        "source": "D:\\UI\\app\\src\\main\\res\\layout\\fragment_interact.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_take_picture.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\layout\\activity_take_picture.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_showarea.xml",
+        "source": "D:\\UI\\app\\src\\main\\res\\layout\\activity_showarea.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\05f4509cbdf181164cb9304d451d2aac216a767f\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_masterdetail7.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\src\\main\\res\\layout\\activity_masterdetail7.xml"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\UI_20170320\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_masterdetail6.xml",
+        "source": "C:\\UI_20170320\\UI\\app\\src\\main\\res\\layout\\activity_masterdetail6.xml"
+    },
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\notification_template_part_time.xml"
+    }
+]

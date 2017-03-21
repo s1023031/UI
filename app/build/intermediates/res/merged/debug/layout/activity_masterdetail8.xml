@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.fulibaigong.tsai.ui.masterdetail8"
+    android:onClick="onGo8">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="150sp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/linearLayout2">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView"
+            android:src="@drawable/shihchh"
+            android:adjustViewBounds="false" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/linearLayout2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:weightSum="1"
+        android:background="#cbcbcb">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="40sp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="史嘉祥 憶林舍工作室"
+                android:id="@+id/textView"
+                android:textSize="23sp"
+                android:textColor="#18294e"
+                android:gravity="center_vertical"
+                android:paddingLeft="16sp"
+                android:paddingRight="16sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/noone"
+            android:weightSum="1"
+            android:layout_weight="0.96">
+
+            <ScrollView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/scrollView">
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="電話：04-25153340\n地址：42078台中市豐原區水源路中坑巷21號\n開放時間：周一至周五 10:00~16:00，週三不開放，請先預約\n\n經歷：\n‧2015 台中市立葫蘆墩文化中心　色象─史嘉祥漆陶個展\n‧2014 國立台灣工藝研究所工藝美學館─史嘉祥創作展\n‧2014 海峽兩岸藝術博覽會銀獎/ 福建美術館國際漆藝展\n‧2013 海峽兩岸藝術博覽會入選\n‧2013 日本東京─日本* 台灣漆藝展\n‧2013 台中市立港區藝術館─史嘉祥舞漆弄陶個展/東京台日漆藝展\n‧2012 杭州海峽兩岸藝術博覽會/ 北京台灣藝術精品展\n‧2012 上海工藝美術館─漆藝* 漆意邀請展\n‧2011 獲選文建會台灣工藝之家\n‧2011 台南國際樹漆大展/ 新竹中日漆藝展\n\n　　創作上結合「陶」與「漆」的史嘉祥，是工藝界中少數將兩種媒材結合，並表現淋漓盡致的工藝家。「漆」是一項東方的傳統工藝，貴在繁瑣的手工技術，而史嘉祥於漆藝創作表現上更跳脫傳統的漆藝，並結「陶」融入創作中，賦予作品故事及生命力。史嘉祥早年跟隨謝棟樑老師從事大型雕塑製作， 1990年代臺中縣美術家接力展「謹告陶漆」展出期間，史嘉祥在機緣下受邀到臺中監獄演講漆器和陶藝。他回憶：「接力展之前，我對漆僅稍微有接觸，記得曾在臺中一間漆工廠認識賴高山老師，民國86年適逢國立傳統藝術中心舉辦漆器傳習計畫，於是跟隨賴高山老師和賴作明老師學習傳統漆藝製作。」對於漆與陶的結合，他則說：「當年老師試圖推廣漆陶王國，因為臺灣陶藝已發展成熟，而漆在各國的特色除脫胎共通外，日本的蒔繪、大陸的漆畫、越南的鑲嵌皆屬著稱，於是思考往陶土容易成形的胎體取代。」由陶入漆，對作陶有一定了解的史嘉祥經由不斷的試驗、思考，並以不同技法讓漆成功附著在各式材質的胎體上，跳脫傳統，呈現新世代的漆藝術。2000年日本金澤國際漆藝大賽作品〈艷身〉得獎並獲博物館典藏。面對工藝的未來，史嘉祥認為工藝品需朝多元方向發展並以生活應用為主，先當依市場的狀態調整，再來考慮量產的問題；現階段他與妻子正朝這個目標共同努力，踏實擴築計畫中的藍圖，一步一步推砌屬於他們的「陶、塑、漆」王國。(季刊41期)
+\n\n"
+                        android:id="@+id/textView2"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingLeft="16sp"
+                        android:paddingRight="16sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="工藝師作品"
+                        android:id="@+id/textView20"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingLeft="16sp"
+                        android:paddingRight="16sp"/>
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="230dp"
+                        android:id="@+id/imageView5"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/shihchwork1"
+                        android:paddingLeft="16dp"
+                        android:paddingRight="16dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="山"
+                        android:id="@+id/textView22"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingLeft="16sp"
+                        android:paddingRight="16sp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="材質 / 陶、漆\n尺寸 / 36×72×26 cm \n創作年代 / 2013\n\n"
+                        android:id="@+id/textView27"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingLeft="16sp"
+                        android:paddingRight="16sp"/>
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="350dp"
+                        android:id="@+id/imageView6"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/shihchwork2"
+                        android:paddingLeft="16dp"
+                        android:paddingRight="16dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="問"
+                        android:id="@+id/textView29"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingLeft="16sp"
+                        android:paddingRight="16sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="材質 / 脫胎漆藝\n尺寸 / 52×20×18 cm \n創作年代 / 2011\n\n"
+                        android:id="@+id/textView28"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingLeft="16sp"
+                        android:paddingRight="16sp" />
+
+                </LinearLayout>
+            </ScrollView>
+
+        </LinearLayout>
+
+
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginBottom="30dp"
+            android:layout_marginTop="10dp">
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="38sp"
+                android:text=" 開始導航 "
+                android:id="@+id/button"
+                android:layout_gravity="center_horizontal"
+                android:onClick="onGo8"
+                android:background="#18294e"
+                android:textColor="#ffffff" />
+        </LinearLayout>
+
+    </LinearLayout>
+</RelativeLayout>

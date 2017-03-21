@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\res\\merged\\release\\raw\\gtm_analytics",
+        "source": "D:\\Android studio flie\\tt\\UI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.4.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "D:\\UI\\app\\build\\intermediates\\res\\merged\\release\\raw\\gtm_analytics",
+        "source": "D:\\UI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.4.0\\res\\raw\\gtm_analytics"
+    }
+]

@@ -1,0 +1,39 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.fulibaigong.tsai.ui.InteractFragment"
+    android:background="#6B9EA0">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageButton
+            android:layout_width="279dp"
+            android:layout_height="205dp"
+            android:id="@+id/imageButton"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/hudong1"
+            android:scaleType="fitCenter"
+            android:background="@android:color/transparent"
+            android:onClick="onChoosePoscard"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="0dp" />
+
+        <ImageButton
+            android:layout_width="279dp"
+            android:layout_height="205dp"
+            android:id="@+id/imageButton2"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/hudong2"
+            android:scaleType="fitCenter"
+            android:background="@android:color/transparent"
+            android:layout_marginBottom="20dp"
+            android:onClick="onAr" />
+
+    </LinearLayout>
+</FrameLayout>

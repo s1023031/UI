@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.fulibaigong.tsai.ui.masterdetail">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="150sp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="false"
+        android:id="@+id/linearLayout2">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView"
+            android:src="@drawable/chaosch"
+            android:adjustViewBounds="false" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/linearLayout2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:weightSum="1"
+        android:background="#cbcbcb">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="40sp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="趙勝傑 趙家窯工藝坊"
+                android:id="@+id/textView"
+                android:textSize="23sp"
+                android:textColor="#18294e"
+                android:gravity="center_vertical"
+                android:paddingLeft="16sp"
+                android:paddingRight="16sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/noone"
+            android:weightSum="1"
+            android:layout_weight="0.96">
+
+            <ScrollView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/scrollView">
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="電話：04-25662056\n地址：台中市大雅區大林路66巷12號\n開放時間：09:00~18:00\n\n經歷：\n‧2011 經濟部中小企業處OTOP 設計大賞─大賞獎「豐之茗」\n‧2010 國立臺灣工藝研究發展中心良品美器- 機能獎「首旋」\n‧2009 國立臺灣工藝研究發展中心良品美器─機能獎「把麥」\n‧2005 結合地方小麥特色參與工藝所臺灣經典窯燒\n‧2004 台中縣彩陶文化協會創會長\n\n　　趙勝傑早期進入集集添興窯當學徒，學習柴燒與上釉等技法，兩年後即回故鄉自立門戶，成立「御陶坊」，從創作到行銷一手包。趙勝傑認為，藝術生活化才能廣及大眾，為此，他以百貨公司做為行銷通路，不過百貨公司高額的專櫃租金及管銷成本過高，經營了六年，兩個弟弟先後加入陣營時，趙家兄弟決定撤掉專櫃，將「御陶坊」易名為「趙家窯工藝坊」，三人分工合作，一起打天下。「風格」是決定一個藝術創作者被發現的重要關鍵。趙勝傑因具有美術科班的底子，所以他的作品經常是雕塑與繪畫的結合。七年前，他整合文化創意產業和地方特產，以大雅鄉出產的小麥意象注入作品，創造在地的文化風格，營造出了差異化，也塑造了屬於趙家窯的識別。趙勝傑表示，很多臺灣的陶藝原料商都到大陸去了，每次用釉藥時，他都必須和新的原料商重新溝通，最後他想，日本工藝家也都使用當地的陶土，自己何不效法呢？於是他改用大雅的紅土，加上小麥稈製成的灰釉，「臺灣只有大雅生產小麥，我作陶使用的全是家鄉的原料，這就是趙家窯最與眾不同的地方」，趙勝傑很自豪地說。家鄉是趙勝傑念茲在茲的創作源頭，這點在〈吾鄉九景〉中便表露無遺。創作前，他思索自己的故鄉有何特色，後來決定在九宮格裡放進陶甕、腳踏車、魚、荷花、小麥、麵食、楓葉、大象、飛機九樣家鄉的物品圖像來表示。這九個圖像分別代表了趙家窯、潭雅自行車道、河川復育、荷花田、小麥田、麵食小吃、上楓村的槭樹、公園裡的大象溜滑梯及清泉岡的飛機，每件物品都述說著家鄉的地方故事與該地特色。〈麥紋系列〉使用大雅的紅土與小麥稈製成的灰釉，紅土燒出黃與咖啡色；灰釉流動著牛乳色澤兼鋪陳出灰燼的餘韻。無論陶爐、杯、茶海、盤、擣缽等，都刻畫上麥穗，儼然成了趙家窯的logo。提樑為了搭色，特別使用紅銅，並敲打出與壺絕妙的比例，為防止銅的導熱，還於提樑處做貼心的防護與裝飾。整體作品釋放出屬於田園的味道。自然景物和文化傳統的相融，在在顯現趙勝傑深入生活細節、發揮工藝美感的絕佳功力。(季刊34期)\n"
+                        android:id="@+id/textView26"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingLeft="16sp"
+                        android:paddingRight="16sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="工藝師作品"
+                        android:id="@+id/textView20"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingLeft="16sp"
+                        android:paddingRight="16sp"/>
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="508dp"
+                        android:id="@+id/imageView5"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/chaoscwork1"
+                        android:paddingLeft="16dp"
+                        android:paddingRight="16dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="勇士飄香壺"
+                        android:id="@+id/textView22"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingLeft="16sp"
+                        android:paddingRight="16sp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="材質 / 陶\n尺寸 / 8×13×10 cm \n創作年代 / 2015\n\n"
+                        android:id="@+id/textView27"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingLeft="16sp"
+                        android:paddingRight="16sp"/>
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="508dp"
+                        android:id="@+id/imageView6"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/chaoscwork2"
+                        android:paddingLeft="16dp"
+                        android:paddingRight="16dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="舞"
+                        android:id="@+id/textView29"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingLeft="16sp"
+                        android:paddingRight="16sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="材質 / 陶\n尺寸 / 10×10×8 cm\n創作年代 / 2015\n\n"
+                        android:id="@+id/textView28"
+                        android:textSize="17sp"
+                        android:textColor="#18294e"
+                        android:paddingLeft="16sp"
+                        android:paddingRight="16sp" />
+
+                </LinearLayout>
+            </ScrollView>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginBottom="30dp"
+            android:layout_marginTop="10dp">
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="38sp"
+                android:text=" 開始導航 "
+                android:id="@+id/button"
+                android:layout_gravity="center_horizontal"
+                android:onClick="onGo"
+                android:background="#18294e"
+                android:textColor="#ffffff"
+                android:textAlignment="center"
+                android:gravity="center" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>
