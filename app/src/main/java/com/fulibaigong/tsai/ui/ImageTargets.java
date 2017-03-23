@@ -178,7 +178,8 @@ public class ImageTargets extends Activity implements SampleApplicationControl{
         {
             ContentValues values = new ContentValues();
             values.put("active", 1);
-            db.update(tbName, values, "id=" + 9, null);
+            //change 9 into 0
+            db.update(tbName, values, "id=" + 0, null);
             mDatasetStrings.add("chaoscwork.xml");
 
             ff = 1;

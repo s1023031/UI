@@ -34,9 +34,11 @@ public class MasterFragment extends Fragment implements AdapterView.OnItemClickL
   /*      String[] strAry = new String[] { "图片1", "图片2", "图片3", "图片4"
                 , "图片5", "图片6", "图片7", "图片8", "图片9"};*/
         // 放在listView中的图片资源id
+
+        //2017/3/23 delete test1
         int[] imgAry = new int[] { R.drawable.chaosc, R.drawable.chenkk,
                 R.drawable.chenmt, R.drawable.chenyf,R.drawable.choumw,R.drawable.huangcc,
-                R.drawable.liaosw,R.drawable.shihch,R.drawable.tsaijy,R.drawable.test1};
+                R.drawable.liaosw,R.drawable.shihch,R.drawable.tsaijy};
         // 创建List集合对象
         List list = new ArrayList();
         // 为List集合添加数据

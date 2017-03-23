@@ -23,17 +23,17 @@ import java.util.Map;
 public class CollectFragment extends Fragment {
 
     int[] imagesGet = {R.drawable.chaosc1, R.drawable.chenkk1, R.drawable.chenmt1, R.drawable.chenyf1,
-    R.drawable.choumw1, R.drawable.huangcc1, R.drawable.liaosw1, R.drawable.shicx1, R.drawable.tsaij1,R.drawable.chaosc1};
+    R.drawable.choumw1, R.drawable.huangcc1, R.drawable.liaosw1, R.drawable.shicx1, R.drawable.tsaij1};
 
     int[] imagesNotGet = {R.drawable.chaosc0, R.drawable.chenkk0, R.drawable.chenmt0, R.drawable.chenyf0,
             R.drawable.choumw0, R.drawable.huangcc0, R.drawable.liaosw0, R.drawable.shicx0, R.drawable.tsaijy0};
 
     int[] imgNameAry = new int[] { R.drawable.chaosc, R.drawable.chenkk,
             R.drawable.chenmt, R.drawable.chenyf,R.drawable.choumw,R.drawable.huangcc,
-            R.drawable.liaosw,R.drawable.shihch,R.drawable.tsaijy,R.drawable.test1};
+            R.drawable.liaosw,R.drawable.shihch,R.drawable.tsaijy};
     ListView lv;
     int[] item_picture={R.drawable.chaosc0, R.drawable.chenkk0, R.drawable.chenmt0, R.drawable.chenyf0,
-            R.drawable.choumw0, R.drawable.huangcc0, R.drawable.liaosw0, R.drawable.shicx0, R.drawable.tsaijy0,R.drawable.chaosc0};
+            R.drawable.choumw0, R.drawable.huangcc0, R.drawable.liaosw0, R.drawable.shicx0, R.drawable.tsaijy0};
 
     SQLiteDatabase db; // DB物件
 
@@ -83,7 +83,8 @@ public class CollectFragment extends Fragment {
     {
         List list = new ArrayList();
         Map map ;
-        for (int i = 0; i < 10; i++) {
+        //i < 10 change into i < 9
+        for (int i = 0; i < 9; i++) {
             map = new HashMap();
             map.put("collectGet", item_picture[i]);
             map.put("imageName", imgNameAry[i]);
